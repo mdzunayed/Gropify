@@ -1,0 +1,6 @@
+{
+  "name": "GroupBy",
+  "description": "Real-time group motorcycle riding app with telemetry, live navigation, PTT intercom, routes, and emergency SOS dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
